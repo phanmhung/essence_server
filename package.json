@@ -1,0 +1,25 @@
+{
+  "name": "essence_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@koa/cors": "^2.2.3",
+    "dotenv": "^6.2.0",
+    "koa": "^2.7.0",
+    "koa-body": "^4.1.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-cors": "0.0.16",
+    "koa-orm": "^2.3.5",
+    "koa-qs": "^2.0.0",
+    "koa-router": "^7.4.0",
+    "mongodb": "^3.2.7",
+    "mysql2": "^1.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
